@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147995764310-c4h5294isknbcncsrudeuh068lsnmued.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147995764310-c4h5294isknbcncsrudeuh068lsnmued</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB90u_ICYBNfx3EslYzwwnG3nixe6Qv49k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147995764310</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AnnantaSourceLLc.oneforpatient</string>
+	<key>PROJECT_ID</key>
+	<string>one-for-patient</string>
+	<key>STORAGE_BUCKET</key>
+	<string>one-for-patient.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147995764310:ios:20825f1f81c62259e57df7</string>
+	<key>DATABASE_URL</key>
+	<string>https://one-for-patient.firebaseio.com</string>
+</dict>
+</plist>
